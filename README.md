@@ -1,5 +1,3 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ekomi-ltd/smart-forms/badges/quality-score.png?b=master&s=1f7d7b6b2ef60be541757d8a5a344ad4d2a51b0f)](https://scrutinizer-ci.com/g/ekomi-ltd/smart-forms/?branch=master)
-
 # Challenge Backend
 
 This project is a codding challenge for backend engineer at Mytheresa.
