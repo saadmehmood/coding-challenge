@@ -40,6 +40,21 @@ This project is a codding challenge for backend engineer at Mytheresa.
 5- Go to project's root directory and run the following command to install all package dependencies
 
     $ composer install
+
+6- Run the following command to execute migration and seed data
+
     $ php artisan migrate:refresh --seed
+
+7- Run the following command to run project at local machine
+
+    $ php artisan serve
+
+8- API endpoint
+
+    http://localhost:8000/api/v1/products
+
+9- Run the following command to run test cases
+
+    $ php artisan test
 
 All Set!
