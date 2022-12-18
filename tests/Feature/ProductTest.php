@@ -83,7 +83,7 @@ class ProductTest extends TestCase
 
     public function test20000Products()
     {
-        Product::factory()->count(20)->create();
+        Product::factory()->count(20000)->create();
 
         $response = $this->getJson(route('products.index'))->assertOk()->json('data');
 
