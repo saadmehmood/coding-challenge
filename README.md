@@ -24,7 +24,7 @@ This project is a codding challenge for backend engineer at Mytheresa.
 
 1- Clone project by running the following command
 
-    $ git clone path
+    $ git clone git@github.com:saadmehmood/coding-challenge.git
 
 2- Create a mysql database and use that database credentials in the next step
 
