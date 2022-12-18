@@ -5,7 +5,6 @@ This project is a codding challenge for backend engineer at Mytheresa.
 ### Prerequisites
 
 ```
-- Ubuntu 
 - PHP > 8.1
 - Apache 2.4.52 with mod_rewrite module
 - mysql >= 5.6
